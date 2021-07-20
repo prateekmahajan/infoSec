@@ -5,3 +5,4 @@ Live preview of markdown (may be HTML) in sublime text
 
 
 check_YEPYEP
+CHECK_CHECK_CHECK
