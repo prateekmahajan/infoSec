@@ -2,16 +2,15 @@
 ## Create files and folders
 
 accessible **offline!**
-
+- Markdown
 - The workspace
 	> To start
 	> Before 
+
+	> difference 
 	- bullet
 
 > **Note:** The button [Handlebars templates](http://handlebarsjs.com/).
-
-- Markdown: publish 
-- HTML
 
 |                |ASCII                          |HTML                         |
 |----------------|-------------------------------|-----------------------------|
@@ -22,3 +21,6 @@ accessible **offline!**
 Code snippet
 can be written here
 ```
+
+r̥r̥r̥r̥r̥ r̥r̥		
+r̥r̥r̥r̥r̥ r̥r̥		
