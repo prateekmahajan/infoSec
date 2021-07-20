@@ -6,6 +6,7 @@ accessible **offline!**
 - The workspace
 	> To start
 	> Before 
+	- bullet
 
 > **Note:** The button [Handlebars templates](http://handlebarsjs.com/).
 
