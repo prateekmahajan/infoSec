@@ -6,3 +6,4 @@ Live preview of markdown (may be HTML) in sublime text
 check_13
 check_14
 check_15
+check_16
