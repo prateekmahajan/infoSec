@@ -12,3 +12,4 @@ Live preview of markdown (may be HTML) in sublime text
 
 check_1
 check_2
+check_3
