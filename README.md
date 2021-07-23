@@ -7,7 +7,10 @@
 	> ' UNION YOUR_NEW_QUERY --
 	- Union merges the resultSet of new select statement to old one.
 
-#### Things to do after SQL injection discovery
-- Find the DB version (e.g for Oracle DB)
-> SELECT * FROM V$version 
+### Things to do after SQL injection discovery
+- Find the DB version (`e.g for Oracle DB`)
+> SELECT * FROM V$version
+- know Tables and columns
+	`List tables`
+> SELECT * FROM information_schema.tables
 
